@@ -1,2 +1,2 @@
 # div-arduino
-mainly proof of concepts or code snippets
+collection with proof of concepts or code snippets
