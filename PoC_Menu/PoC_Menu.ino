@@ -23,6 +23,7 @@ Setup stp;
 void setup() {
   Serial.begin(9600);
   stp.begin(SSID_ESP,SSID_KEY);
+  stp.getSettings();
 }
 
 void loop() {
